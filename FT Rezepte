@@ -1,1 +1,103 @@
+.head {
+	background-image: url(https://static.wixstatic.com/media/b83db2_b63350b30bc941a4bf5741a57e653b58.jpg/v1/fill/w_721,h_146,al_c,lg_1,q_80/b83db2_b63350b30bc941a4bf5741a57e653b58.wep);
+	Font-size: 20;
+	Font-color: Black;
+	background-position: center;
+	//rgb(220,160,140)
+	right: 100px;
+	top: 50px;
+	width: 100%;
+	height: 17%;
+	background-repeat: no-repeat;
+	align-items: flex-start;
+	background-color: black;
+}
 
+.nav {
+	Background-color: #7CFC00;
+	height: auto;
+	display: flex;
+	border: 5px solid #7CFC00;
+}
+
+.background {
+	background-position: absolute;
+	background-size: cover;
+	background-image: url(https://lh3.googleusercontent.com/UC88AlJMVR-Vimd6FFdqQPS3jWrD8tbCYUDtddUtayNEMg0Qi0uF9Ivh_BN18DR5Vzabs4EY01sAPnxbLi828Umtp_y4olsWBoPbv5ex_bgQFESsC-XRHZaiz3H1X2BQoTyMUSj6I0NJRjFsvjBgD-CSSIBu72eSBZUB2gEV-785yxmK6RMGwMw3FMrZ_fmLCL-40_PewH9cdiwdycjYYc1d_gZTN9vslNWCr8so5HpM2RAQ82wfKHelQSJd8POw_16u7-KDCwU6YDT7DkGPs3P2Y4yxF5l9ZiGmOvsOqP9CHWNLn8phLdM5zFBQqwyqbH9BCPqKHyZn5Awxrlu4n91bxOzvM6rEVmcOLD4q6nSoXvKEpuRRyUNCOblHBp7QN98wRgLUD6akwFAfduXD-rA-K6Hw_1AMadaEyIeVyVpO3wT4DfP5m-rr0Ei46z5qi6UQM1jymD7Iga37vZ7SrkhTW30J6tY_w_qrosXkyLu3_gS4bru3o3_fRZxna1pzfdft_CA0I4tNiWQVHY14kRC7rsCQH7bI3qtLh6kWM7muXnatV4vIvgmymFY0Azi-yytknOnXOm2Z3LqEp46F2qoR_6-r4hKiwaidLr4PVUw9S14OQxwDiiL-OvRbYnawAkMJlgMVzypSimP9ZKwuw1-8=w391-h220-no);
+	height: 100%;
+	display: flex;
+	color: white;
+	-webkit-filter: brightness(70%);
+	justify-content: center;
+}
+
+.dropbtn {
+	background-color: #7CFC00;
+	color: white;
+	padding: 16px;
+	font-size: 16px;
+	border: none;
+	cursor: pointer;
+}
+
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: white;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+	z-index: 1;
+}
+
+.dropdown-content a {
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+}
+
+.dropdown-content a:hover {
+	background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+
+.dropdown:hover .dropbtn {
+	background-color: #4B0082a;
+}
+
+.leftbox {
+	display: inline;
+	background-color: blue;
+	height: 50%;
+	width: 75%;
+	opacity: 0, 75;
+	position: absolute
+}
+
+.mainframe {
+	display: inline;
+	background-color: White;
+	height: 50%;
+	width: 62, 5%;
+	opacity: 0, 75;
+	position: absolute;
+	left: 25%;
+	right: 25%;
+	top: 35%;
+	-webkit-filter: brightness(95%);
+	flex-wrap: wrap;
+}
+
+.body {
+	background-color: blue
+}
+COPY TO CLIPBOARD	 SELECT ALL
+© FreeFormatter.com - FREEFORMATTER is a d/b/
